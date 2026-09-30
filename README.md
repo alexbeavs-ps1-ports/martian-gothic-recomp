@@ -4,6 +4,10 @@ This release candidate uses PSXRecomp and the shared recomp-ui launcher.
 You must supply your own SLES-01350 game disc and SCPH-5502/5552 Europe BIOS.
 The package contains no game disc, retail BIOS, generated retail game code, or saved game.
 
+<!-- release-standard:bios -->
+**BIOS:** SCPH-5552 (Europe) retail BIOS, 524288 bytes, SHA-256 `1faaa18fa820a0225e488d9f086296b8e6c46df739666093987ff7d8fd352c09`. Supply your own dump; releases do not use OpenBIOS.
+<!-- /release-standard:bios -->
+
 ## Setup
 
 1. Extract the complete setup ZIP into a writable folder.

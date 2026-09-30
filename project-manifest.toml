@@ -27,3 +27,7 @@ sha256 = "1faaa18fa820a0225e488d9f086296b8e6c46df739666093987ff7d8fd352c09"
 windows_package = "not_run"
 linux_gameplay = "not_run"
 macos_gameplay = "not_run"
+
+[retail_identity]
+disc_count = 1
+serials = ["SLES-01350"]
