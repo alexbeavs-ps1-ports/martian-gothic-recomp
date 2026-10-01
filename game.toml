@@ -32,6 +32,7 @@ strict = true
 window_title = "Martian Gothic Recompiled"
 memcard_dir = "saves"
 openbios = false
+overlay_cache = true
 
 [video]
 renderer = "opengl"
